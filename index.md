@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "bonjour et Bienvenu"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Je débute Grave mais ça va le faire ...
